@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Post One",
+      "body": "This is the post body",
+      "publishedAt": "10-01-2020"
+    },
+    {
+      "id": "2",
+      "title": "Post Two",
+      "body": "This is the post body",
+      "publishedAt": "10-01-2020"
+    },
+    {
+      "id": "3",
+      "title": "Post Three",
+      "body": "This is the post body",
+      "publishedAt": "10-01-2020"
+    },
+    {
+      "title": "Post Four",
+      "body": "Post Baby",
+      "publishedAt": "2020-10-22",
+      "id": "_u12exJ"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Software Guy",
+      "email": "softwareguy@mozilla.com"
+    },
+    {
+      "name": "Engineer",
+      "email": "Software",
+      "id": "yijLo6K"
+    }
+  ]
+}
