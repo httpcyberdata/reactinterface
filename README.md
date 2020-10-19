@@ -7,3 +7,4 @@ An interface using react-admin as well as a REST API built with some packages an
 1. npm install in the main folder
 2. cd /client  && npm install in the client folder.
 3. npm run dev | this 3rd command will start the client app and the server-side app.
+
